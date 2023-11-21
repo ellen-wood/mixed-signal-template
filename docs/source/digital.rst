@@ -1,2 +1,7 @@
-Hello
-hu
+Digital
+===
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
