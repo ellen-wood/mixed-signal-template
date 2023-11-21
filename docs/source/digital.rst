@@ -4,4 +4,4 @@ Digital
 .. autosummary::
    :toctree: generated
 
-   lumache
+   lumachey
