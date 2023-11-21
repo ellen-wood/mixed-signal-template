@@ -14,4 +14,4 @@ Contents
 
    usage
    api
-   Part 1 - Digital 
+   digital
