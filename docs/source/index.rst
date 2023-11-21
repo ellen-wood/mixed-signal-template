@@ -1,13 +1,7 @@
-Sky130 / eFabless - Mixed Signal Design Approach 
-================================================
+Sky130 / eFabless - Mixed Signal Design
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+An approach for creating a mixed signal design on the Sky130 process for eFabless ChipIgnite. 
 
 .. note::
 
